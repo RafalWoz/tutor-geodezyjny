@@ -1,6 +1,9 @@
 streamlit
-langchain>=0.1.0
-langchain-community>=0.0.10
-langchain-google-genai  # NOWY PAKIET DLA GEMINI
+langchain
+langchain-google-genai
+langchain-community
 faiss-cpu
-pypdf
+PyMuPDF
+huggingface_hub
+python-dotenv
+langchain-core
